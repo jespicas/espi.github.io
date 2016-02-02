@@ -15,7 +15,7 @@ google-tracking-id: "UA-73234844-1"
 disqus-shortname: "espi"
 
 # Build settings
-highlighter: pygments
+rouge: pygments
 markdown: kramdown
 
 pages_list:
