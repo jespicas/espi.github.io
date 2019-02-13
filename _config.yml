@@ -22,6 +22,7 @@ pages_list:
   'Blog': 'blog'
   'About...': 'about'
   'Contact': 'contact'
+  'Games': 'games'
 
 background-img: "/img/intro-bg.jpg"
 
@@ -84,7 +85,7 @@ favicon: "/img/favicon.ico"
 # Exclusion list from the generated _site
 exclude: ["Rakefile", "LICENSE", "README.md", "CNAME", "Gemfile", "Gemfile.md", "vendor"]
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-paginate
