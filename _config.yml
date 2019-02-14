@@ -22,7 +22,6 @@ pages_list:
   'Blog': 'blog'
   'About...': 'about'
   'Contact': 'contact'
-  'Games': 'games'
 
 background-img: "/img/intro-bg.jpg"
 
